@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300&display=swap');
+body {
+    font-family: 'Noto Sans KR', sans-serif;
+}
+
+textarea {
+    width: 80%;
+    height: 20vh;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1rem;
+    margin-top: 2rem;
+    box-sizing: border-box;
+    border-radius: 00.5rem;
+    border: 1px solid black;
+    font-size: large;
+}
+
+#output {
+    width: 80%;
+    height: 20vh;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1rem;
+    margin-top: 1rem;
+    box-sizing: border-box;
+    border-radius: 00.5rem;
+    border: 1px solid black;
+}
+.hero {
+    background-color: #FDE68A;
+    padding: 1rem;
+    margin: 0px;
+    border-bottom-left-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+}
+h2 {
+text-align: center;
+
+}
+.bg-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+#btn-translate {
+    margin-top: 1rem;
+    padding: 0.5rem;
+    background-color: rosybrown;
+    margin-left: 4rem;
+}
+
+.container {
+    padding: 0rem 1rem;
+font-size: large;
+max-width: 800px;
+margin: auto;
+}
+
+.footer {
+    background-color: #FDE68A;
+  text-align: center;
+    color: black;
+    border-top-right-radius: 1rem;
+    border-top-left-radius: 1rem;
+   padding-top: 1rem;
+   margin-top: 2rem;
+}
+
+.footer .link {
+    color: black
+}
+
+.footer .footer-header {
+    font-weight: bold;
+    font-size: large;
+}
+
+.footer ul {
+    padding-inline-start: 0px;
+}
+.list-item-inline {
+    display: inline;
+    padding: 0rem 0.5rem;
+}
+.list-non-bullet {
+    list-style: none;
+}
+.translated {
+text-align: center;
+
+}
